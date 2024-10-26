@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>My Portfolio</title>
+  <link rel="stylesheet" href="portfolio.css">
+</head>
+<body>
+
+  <header class="header">
+    <h1>Welcome to My Portfolio</h1>
+    <p>Hi, I'm Pavani Peddapudi – a passionate student pursuing b.tech final year</p>
+  </header>
+
+  <nav class="navbar">
+    <a href="#about">About</a>
+    <a href="#projects">Projects</a>
+    <a href="#contact">Contact</a>
+  </nav>
+
+  <section id="about" class="about">
+    <h2>About Me</h2>
+    <p>I'm a final year student i have relavant skills . I love creating engaging web experiences.</p>
+  </section>
+
+  <section id="projects" class="projects">
+    <h2>My Projects</h2>
+    <div class="project-card" id="project1">SYSTEM HACKING
+      <p> recently i done my 2 month internship as an intern in coincent .ai in the course of ethical hacking as im a cyber security student</p>
+      <p>SYSTEM HACKING using crunch tool to get information from one to another in an Legal way</p> 
+    </div>
+    <div class="project-card" id="project2">INFORMATION GATHERING 
+    
+      <p>my second project is INFORMATION GATHERING  by using the tools,theharvester,Maltego,and Nmap  </p>
+    </div>
+  </section>
+
+  <footer id="contact" class="contact">
+    <h2>Contact Me</h2>
+    <p>Email: <a href="pavanipeddapudi0@gmail.com">pavanipeddapudi0@gmail.com</a></p>
+    <p>LinkedIn: <a href="https://www.linkedin.com/in/pavani-peddapudi-90227623b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">My LinkedIn</a></p>
+  </footer>
+
+</body>
+</html>
